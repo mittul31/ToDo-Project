@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color> <!-- Main branding color -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Darker variant of the primary color -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Text color to be used on primary color backgrounds -->
+
 </resources>
